@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../AppConsola/AppConsola.csproj" />
+  <Project Path="AccesoDatos.csproj" />
+</Solution>
